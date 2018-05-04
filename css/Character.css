@@ -1,0 +1,26 @@
+
+.left {
+    width:800px;
+    float:left;
+}
+.right {
+    width:240px;
+    float:right;
+}
+.menuTop {
+    width:1024px:
+    height:35px;
+
+}
+body {
+    background-color: #222;
+    color: #ccc;
+}
+.card {
+    background-color: #222;
+    color: #ccc;
+}
+html, body {
+    height:100%;
+    margin:0;
+}
